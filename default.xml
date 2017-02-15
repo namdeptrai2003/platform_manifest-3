@@ -35,6 +35,7 @@
   </project>
   <project path="bionic" name="android_bionic" remote="tipsy" />
   <project path="build/kati" name="build_kati" remote="tipsy" />
+  <project path="device/qcom/common" name="device_qcom_common" remote="tipsy" />
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="tipsy" />
   <project path="frameworks/av" name="frameworks_av" remote="tipsy" />
   <project path="frameworks/base" name="frameworks_base" remote="tipsy" />
@@ -149,7 +150,6 @@
   <project path="external/connectivity" name="android_external_connectivity" remote="slim" />
   <project path="external/libnetfilter_conntrack" name="android_external_libnetfilter_conntrack" remote="slim" />
   <project path="external/libnfnetlink" name="android_external_libnfnetlink" remote="slim" />
-  <project path="device/qcom/common" name="device_qcom_common" remote="slim" />
   <project path="hardware/qcom/audio-caf/msm8916" name="hardware_qcom_audio" revision="ng7.1-caf-8916" remote="slim" />
   <project path="hardware/qcom/audio-caf/msm8937" name="hardware_qcom_audio" revision="ng7.1-caf-8937" remote="slim" />
   <project path="hardware/qcom/audio-caf/msm8952" name="hardware_qcom_audio" revision="ng7.1-caf-8952" remote="slim" />

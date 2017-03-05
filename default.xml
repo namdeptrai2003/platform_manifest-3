@@ -64,6 +64,9 @@
 
   <!-- OMS needs  -->
   <project path="packages/apps/masquerade" name="Substratum/masquerade" remote="github" revision="n" />
+  
+  <!-- OmniJaws -->
+  <project path="packages/services/OmniJaws" name="packages_services_OmniJaws" remote="tipsy" />
 
   <!-- OTA -->
   <project path="packages/apps/SlimOTA" name="packages_apps_SlimOTA" remote="tipsy" revision="n7.1" />

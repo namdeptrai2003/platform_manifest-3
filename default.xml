@@ -53,6 +53,7 @@
   <project path="system/core" name="android_system_core" remote="tipsy" />
   <project path="system/sepolicy" name="android_system_sepolicy" remote="tipsy" />
   <project path="vendor/tipsy" name="vendor_tipsy" remote="tipsy" />
+  <project path="system/vold" name="system_vold" remote="tipsy" />
 
   <!-- LockClock -->
   <project path="external/google" name="external_google" remote="tesla" />
@@ -144,7 +145,6 @@
   <project path="system/media" name="android_system_media" remote="slim" />
   <project path="system/netd" name="android_system_netd" remote="slim" />
   <project path="system/security" name="android_system_security" remote="slim" />
-  <project path="system/vold" name="android_system_vold" remote="slim" />
 
   <!-- CodeAurora Additions -->
   <project path="external/ant-wireless/ant_native" name="android_external_ant-wireless_ant_native" remote="slim" />

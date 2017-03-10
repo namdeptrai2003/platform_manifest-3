@@ -77,7 +77,7 @@
 
   <!-- OTA -->
   <project path="packages/apps/SlimOTA" name="packages_apps_SlimOTA" remote="tipsy" revision="n7.1" />
-  <project path="OTA_config" name="OTA_config" remote="tipsy" revision="n7.1" >
+  <project path="OTA_config" name="TipsyOs-Devices/OTA_config" remote="github" revision="n7.1" >
       <copyfile src="ota_conf" dest="ota_conf" />
   </project>
 

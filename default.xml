@@ -6,7 +6,7 @@
            revision="refs/tags/android-7.1.1_r26" />
 
   <remote  name="github"
-           fetch="git://github.com/"
+           fetch="https://github.com/"
            review="https://review.slimroms.org/"/>
 
   <remote  name="slim"

@@ -136,6 +136,7 @@
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="slim" />
   <project path="packages/apps/PhoneCommon" name="packages_apps_PhoneCommon" remote="slim" />
   <project path="packages/apps/Snap" name="packages_apps_Snap" remote="slim" />
+  <project path="packages/apps/SnapdragonGallery" name="packages_apps_SnapdragonGallery" remote="slim" />
   <project path="packages/apps/Stk" name="packages_apps_Stk" remote="slim" />
   <project path="packages/apps/UnifiedEmail" name="packages_apps_UnifiedEmail" remote="slim" />
   <project path="packages/providers/ContactsProvider" name="packages_providers_ContactsProvider" remote="slim" />

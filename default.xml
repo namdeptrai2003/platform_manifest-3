@@ -45,6 +45,7 @@
   <project path="hardware/qcom/bootctrl" name="hardware_qcom_bootctrl" remote="tipsy" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="tipsy" />
   <project path="packages/apps/OmniStyle" name="android_packages_apps_OmniStyle" remote="tipsy" />
+  <project path="packages/apps/OmniSwitch" name="android_packages_apps_OmniSwitch" remote="tipsy" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="tipsy" />
   <project path="packages/apps/SlimWallpapers" name="packages_apps_SlimWallpapers" remote="tipsy" />
   <project path="packages/apps/PackageInstaller" name="packages_apps_PackageInstaller" remote="tipsy" />

@@ -89,6 +89,7 @@
   <project path="bootable/recovery" name="bootable_recovery" remote="slim" />
   <project path="external/aac" name="android_external_aac" remote="slim" />
   <project path="external/apache-http" name="android_external_apache-http" remote="slim" />
+  <project path="external/bson" name="android_external_bson" remote="slim" />
   <project path="external/e2fsprogs" name="android_external_e2fsprogs" remote="slim" />
   <project path="external/f2fs-tools" name="android_external_f2fs-tools" remote="slim" />
   <project path="external/flac" name="android_external_flac" remote="slim" />

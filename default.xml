@@ -107,6 +107,7 @@
   <project path="external/tinycompress" name="android_external_tinycompress" remote="slim" />
   <project path="external/tinyxml2" name="android_external_tinyxml2" groups="pdk" remote="slim" />
   <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="slim" />
+  <project path="frameworks/opt/color-picker" name="frameworks_opt_color-picker" remote="slim" />
   <project path="frameworks/opt/net/ims" name="frameworks_opt_net_ims" remote="slim" />
   <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="slim" />
   <project path="frameworks/support" name="frameworks_support" remote="slim" />

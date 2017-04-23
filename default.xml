@@ -35,6 +35,7 @@
   </project>
   <project path="bionic" name="android_bionic" remote="tipsy" />
   <project path="build/kati" name="build_kati" remote="tipsy" />
+  <project path="development" name="development" remote="tipsy" />
   <project path="device/qcom/common" name="device_qcom_common" remote="tipsy" />
   <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="tipsy" />
   <project path="external/ahbottomnavigation" name="external_ahbottomnavigation" remote="tipsy" />
@@ -42,6 +43,7 @@
   <project path="frameworks/base" name="frameworks_base" remote="tipsy" />
   <project path="frameworks/native" name="frameworks_native" remote="tipsy" />
   <project path="frameworks/opt/slim" name="frameworks_opt_slim" remote="tipsy" />
+  <project path="frameworks/support" name="frameworks_support" remote="tipsy" />
   <project path="hardware/libhardware" name="hardware_libhardware" remote="tipsy" />
   <project path="hardware/qcom/bootctrl" name="hardware_qcom_bootctrl" remote="tipsy" />
   <project path="packages/apps/ExactCalculator" name="packages_apps_ExactCalculator"  remote="tipsy" />
@@ -110,7 +112,6 @@
   <project path="frameworks/opt/color-picker" name="frameworks_opt_color-picker" remote="slim" />
   <project path="frameworks/opt/net/ims" name="frameworks_opt_net_ims" remote="slim" />
   <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="slim" />
-  <project path="frameworks/support" name="frameworks_support" remote="slim" />
   <project path="hardware/broadcom/libbt" name="hardware_broadcom_libbt" remote="slim" />
   <project path="hardware/broadcom/wlan" name="hardware_broadcom_wlan" remote="slim" />
   <project path="hardware/libhardware_legacy" name="hardware_libhardware_legacy" remote="slim" />
@@ -212,7 +213,6 @@
   <project path="developers/build" name="platform/developers/build" remote="aosp" />
   <project path="developers/demos" name="platform/developers/demos" remote="aosp" />
   <project path="developers/samples/android" name="platform/developers/samples/android" remote="aosp" />
-  <project path="development" name="platform/development" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="device/common" name="device/common" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="device/generic/arm64" name="device/generic/arm64" groups="pdk" remote="aosp" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" remote="aosp" />

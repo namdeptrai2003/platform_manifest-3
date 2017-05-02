@@ -1,11 +1,9 @@
 Welcome to TipsyOs
 ===================
 
-This is a testing grounds, proceed with caution
+This is a frunk ground. Make sure u're drunk enough to build this.
 
-Thus is Slim 7.1 as a base coming in; we just started it; so don't sync and build that yet please, be patient.
-
-Getting Started
+Getting Drunk:
 ---------------
 
 To get started with Tipsy, you'll need to get familiar with
@@ -90,7 +88,7 @@ Install lz4 compression tool:
 sudo apt-get install liblz4-tool
 ```
 
-Initialize TipsyOs build environment:
+Initialize TipsyOs build frunk environment:
 -------------------------------------
 
 Open Terminal
@@ -118,7 +116,11 @@ set ccache : prebuilts/misc/linux-x86/ccache/ccache -M 50G
 . build/envsetup.sh
 lunch
 Choose your device
+```
+Your device is properly lunched? Build the Drunkness!
+-----------------------------------------------------
+```
 make tipsy -j#
 ```
 Have Fun and be Tipsy!!
-----------
+-----------------------

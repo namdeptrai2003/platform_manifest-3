@@ -168,7 +168,7 @@
   <project path="external/libnetfilter_conntrack" name="android_external_libnetfilter_conntrack" remote="slim" />
   <project path="external/libnfnetlink" name="android_external_libnfnetlink" remote="slim" />
   <project path="hardware/qcom/audio-caf/msm8916" name="hardware_qcom_audio" revision="ng7.1-caf-8916" remote="slim" />
-  <project path="hardware/qcom/audio-caf/msm8937" name="hardware_qcom_audio" revision="ng7.1-caf-8937" remote="slim" />
+  <project path="hardware/qcom/audio-caf/msm8937" name="hardware_qcom_audio" revision="n7.1-caf-8937" remote="tesla" />
   <project path="hardware/qcom/audio-caf/msm8952" name="hardware_qcom_audio" revision="ng7.1-caf-8952" remote="slim" />
   <project path="hardware/qcom/audio-caf/msm8960" name="hardware_qcom_audio" revision="ng7.1-caf-8960" remote="slim" />
   <project path="hardware/qcom/audio-caf/msm8974" name="hardware_qcom_audio" revision="ng7.1-caf-8974" remote="slim" />
@@ -176,7 +176,7 @@
   <project path="hardware/qcom/audio-caf/msm8996" name="hardware_qcom_audio" revision="ng7.1-caf-8996" remote="slim" />
   <project path="hardware/qcom/bt-caf" name="hardware_qcom_bt" revision="ng7.1-caf" remote="slim" />
   <project path="hardware/qcom/display-caf/msm8916" name="hardware_qcom_display" revision="ng7.1-caf-8916" remote="slim" />
-  <project path="hardware/qcom/display-caf/msm8937" name="hardware_qcom_display" revision="ng7.1-caf-8937" remote="slim" />
+  <project path="hardware/qcom/display-caf/msm8937" name="hardware_qcom_display" revision="n7.1-caf-8937" remote="tesla" />
   <project path="hardware/qcom/display-caf/msm8952" name="hardware_qcom_display" revision="ng7.1-caf-8952" remote="slim" />
   <project path="hardware/qcom/display-caf/msm8960" name="hardware_qcom_display" revision="ng7.1-caf-8960" remote="slim" />
   <project path="hardware/qcom/display-caf/msm8974" name="hardware_qcom_display" revision="ng7.1-caf-8974" remote="slim" />
@@ -184,7 +184,7 @@
   <project path="hardware/qcom/display-caf/msm8996" name="hardware_qcom_display" revision="ng7.1-caf-8996" remote="slim" />
   <project path="hardware/qcom/fm" name="hardware_qcom_fm" remote="slim" />
   <project path="hardware/qcom/media-caf/msm8916" name="hardware_qcom_media" revision="ng7.1-caf-8916" remote="slim" />
-  <project path="hardware/qcom/media-caf/msm8937" name="hardware_qcom_media" revision="ng7.1-caf-8937" remote="slim" />
+  <project path="hardware/qcom/media-caf/msm8937" name="hardware_qcom_media" revision="n7.1-caf-8937" remote="tesla" />
   <project path="hardware/qcom/media-caf/msm8952" name="hardware_qcom_media" revision="ng7.1-caf-8952" remote="slim" />
   <project path="hardware/qcom/media-caf/msm8960" name="hardware_qcom_media" revision="ng7.1-caf-8960" remote="slim" />
   <project path="hardware/qcom/media-caf/msm8974" name="hardware_qcom_media" revision="ng7.1-caf-8974" remote="slim" />

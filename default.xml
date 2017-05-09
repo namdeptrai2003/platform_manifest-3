@@ -65,6 +65,7 @@
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="tipsy" />
   <project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" remote="tipsy" />
   <project path="system/core" name="android_system_core" remote="tipsy" />
+  <project path="system/media" name="android_system_media" remote="tipsy" />
   <project path="system/sepolicy" name="android_system_sepolicy" remote="tipsy" />
   <project path="system/vold" name="system_vold" remote="tipsy" />
   <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="tipsy" />
@@ -156,7 +157,6 @@
   <project path="system/bt" name="android_system_bt" remote="slim" />
   <project path="system/extras" name="android_system_extras" remote="slim" />
   <project path="system/keymaster" name="android_system_keymaster" remote="slim" />
-  <project path="system/media" name="android_system_media" remote="slim" />
   <project path="system/netd" name="android_system_netd" remote="slim" />
   <project path="system/security" name="android_system_security" remote="slim" />
 

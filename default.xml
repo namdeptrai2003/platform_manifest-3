@@ -34,6 +34,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="bionic" name="android_bionic" remote="tipsy" />
+  <project path="bootable/recovery" name="bootable_recovery" remote="tipsy" />
   <project path="build/kati" name="build_kati" remote="tipsy" />
   <project path="development" name="development" remote="tipsy" />
   <project path="device/qcom/common" name="device_qcom_common" remote="tipsy" />
@@ -94,7 +95,6 @@
 
   <!-- SLIM -->
   <project path="art" name="android_art" remote="slim" />
-  <project path="bootable/recovery" name="bootable_recovery" remote="slim" />
   <project path="external/aac" name="android_external_aac" remote="slim" />
   <project path="external/apache-http" name="android_external_apache-http" remote="slim" />
   <project path="external/bson" name="android_external_bson" remote="slim" />

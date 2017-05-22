@@ -34,6 +34,7 @@
   <project path="frameworks/base" name="frameworks_base" remote="tipsy" revision="testing" />
   <project path="frameworks/native" name="frameworks_native" remote="tipsy" revision="testing" />
   <project path="frameworks/opt/slim" name="frameworks_opt_slim" remote="tipsy" revision="testing" />
+  <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="tipsy" revision="testing" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="tipsy" revision="testing" />
   <project path="packages/apps/Tavern" name="packages_apps_Tavern" remote="tipsy" revision="testing" />
   <project path="vendor/tipsy" name="vendor_tipsy" remote="tipsy" revision="testing" />
@@ -54,7 +55,6 @@
   <project path="frameworks/support" name="frameworks_support" remote="tipsy" />
   <project path="hardware/qcom/bootctrl" name="hardware_qcom_bootctrl" remote="tipsy" />
   <project path="hardware/libhardware" name="hardware_libhardware" remote="tipsy" />
-  <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="tipsy" />
   <project path="packages/apps/ExactCalculator" name="packages_apps_ExactCalculator"  remote="tipsy" />
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="tipsy" />
   <project path="packages/apps/DSPlibs" name="packages_apps_DSPlibs" remote="tipsy" />

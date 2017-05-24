@@ -88,10 +88,10 @@
   </project>
 
   <!-- Telephony
-  <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="tipsy" />
   <project path="packages/apps/ContactsCommon" name="packages_apps_ContactsCommon" remote="tipsy" />
   <project path="packages/apps/PhoneCommon" name="packages_apps_PhoneCommon" remote="tipsy" />
   <project path="packages/providers/TelephonyProvider" name="packages_providers_TelephonyProvider" remote="tipsy" />-->
+  <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="tipsy" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="tipsy" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="tipsy" revision="testing" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="tipsy" />
@@ -134,7 +134,6 @@
   <project path="packages/apps/BasicSmsReceiver" name="packages_apps_BasicSmsReceiver" remote="slim" />
   <project path="packages/apps/Camera2" name="packages_apps_Camera2" remote="slim" />
   <project path="packages/apps/CellBroadcastReceiver" name="packages_apps_CellBroadcastReceiver" remote="slim" />
-  <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="slim" />
   <project path="packages/apps/ContactsCommon" name="packages_apps_ContactsCommon" remote="slim" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="slim" />
   <project path="packages/apps/PhoneCommon" name="packages_apps_PhoneCommon" remote="slim" />

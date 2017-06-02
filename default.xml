@@ -81,12 +81,6 @@
   <!-- OmniJaws -->
   <project path="packages/services/OmniJaws" name="packages_services_OmniJaws" remote="tipsy" />
 
-  <!-- OTA -->
-  <project path="packages/apps/SlimOTA" name="packages_apps_SlimOTA" remote="tipsy" revision="n7.1" />
-  <project path="OTA_config" name="TipsyOs-Devices/OTA_config" remote="github" revision="n7.1" >
-      <copyfile src="ota_conf" dest="ota_conf" />
-  </project>
-
   <!-- Telephony
   <project path="packages/apps/ContactsCommon" name="packages_apps_ContactsCommon" remote="tipsy" />
   <project path="packages/apps/PhoneCommon" name="packages_apps_PhoneCommon" remote="tipsy" />

@@ -56,6 +56,7 @@
   <project path="frameworks/support" name="frameworks_support" remote="tipsy" />
   <project path="hardware/qcom/bootctrl" name="hardware_qcom_bootctrl" remote="tipsy" />
   <project path="hardware/libhardware" name="hardware_libhardware" remote="tipsy" />
+  <project path="libcore" name="android_libcore" remote="tipsy" />
   <project path="packages/apps/ExactCalculator" name="packages_apps_ExactCalculator"  remote="tipsy" />
   <project path="packages/apps/DSPlibs" name="packages_apps_DSPlibs" remote="tipsy" />
   <project path="packages/apps/FlipFlap" name="packages_apps_FlipFlap" remote="tipsy" />
@@ -132,7 +133,6 @@
   <project path="hardware/qcom/power" name="hardware_qcom_power" remote="slim" />
   <project path="hardware/qcom/wlan" name="hardware_qcom_wlan" remote="slim" />
   <project path="hardware/ril" name="hardware_ril" remote="slim" />
-  <project path="libcore" name="android_libcore" remote="slim" />
   <project path="packages/apps/BasicSmsReceiver" name="packages_apps_BasicSmsReceiver" remote="slim" />
   <project path="packages/apps/Camera2" name="packages_apps_Camera2" remote="slim" />
   <project path="packages/apps/CellBroadcastReceiver" name="packages_apps_CellBroadcastReceiver" remote="slim" />

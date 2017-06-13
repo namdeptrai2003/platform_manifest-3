@@ -33,6 +33,7 @@
            sync-c="true"
            sync-j="4" />
 
+  <project path="packages/apps/Jelly" name="packages_apps_Jelly" remote="tipsy" revision="testing" />
   <!-- Tipsy stuff -->
   <project path="build" name="tipsy_build" remote="tipsy" >
     <copyfile src="core/root.mk" dest="Makefile" />

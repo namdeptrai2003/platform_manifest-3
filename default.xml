@@ -36,6 +36,7 @@
   <project path="frameworks/opt/slim" name="frameworks_opt_slim" remote="tipsy" revision="testing" />
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="tipsy" revision="testing" />
   <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="tipsy" revision="testing" />
+  <project path="packages/apps/Jelly" name="packages_apps_Jelly" remote="tipsy" revision="testing" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="tipsy" revision="testing" />
   <project path="packages/apps/Tavern" name="packages_apps_Tavern" remote="tipsy" revision="testing" />
   <project path="vendor/tipsy" name="vendor_tipsy" remote="tipsy" revision="testing" />

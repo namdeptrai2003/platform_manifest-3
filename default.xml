@@ -64,7 +64,7 @@
   <project path="packages/apps/OmniSwitch" name="packages_apps_OmniSwitch" remote="tipsy" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="tipsy" />
   <project path="packages/apps/SlimWallpapers" name="packages_apps_SlimWallpapers" remote="tipsy" />
-  <project path="packages/apps/Snap" name="packages_apps_Snap" remote="tesla" />
+  <project path="packages/apps/Snap" name="packages_apps_Snap" remote="tipsy" />
   <project path="packages/apps/PackageInstaller" name="packages_apps_PackageInstaller" remote="tipsy" />
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="tipsy" />
   <project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" remote="tipsy" />

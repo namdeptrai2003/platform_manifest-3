@@ -24,6 +24,10 @@
   <remote name="bb"
            fetch="https://bitbucket.org/" />
 
+  <remote  name="tipsylab"
+           fetch="https://gitlab.com/TipsyOs/"
+           revision="master" />
+
   <default revision="refs/heads/n7.1"
            remote="github"
            sync-c="true"
@@ -627,5 +631,5 @@
 
   <!-- Toolchains -->
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" name="GZR-ValidusOS/arm-eabi-4.9" remote="github" revision="master" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-5.x" name="DespairFactor/arm-eabi-5.x" remote="bb" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-5.x" name="arm-eabi-5.x" remote="tipsylab" revision="master" />
 </manifest>

@@ -33,7 +33,6 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="packages/apps/Jelly" name="packages_apps_Jelly" remote="tipsy" revision="testing" />
   <!-- Tipsy stuff -->
   <project path="build" name="tipsy_build" remote="tipsy" >
     <copyfile src="core/root.mk" dest="Makefile" />
@@ -58,6 +57,7 @@
   <project path="packages/apps/DSPlibs" name="packages_apps_DSPlibs" remote="tipsy" />
   <project path="packages/apps/ExactCalculator" name="packages_apps_ExactCalculator"  remote="tipsy" />
   <project path="packages/apps/Gallery2" name="packages_apps_Gallery2" remote="tipsy" />
+  <project path="packages/apps/Jelly" name="packages_apps_Jelly" remote="tipsy" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="tipsy" />
   <project path="packages/apps/MusicFX" name="packages_apps_MusicFX" remote="tipsy" />
   <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="tipsy" />
@@ -85,7 +85,7 @@
   <project path="packages/apps/FloatingActionButton" name="FloatingActionButton" remote="tesla" />
 
   <!-- OMS needs  -->
-  <project path="packages/apps/masquerade" name="masquerade" remote="tipsy" revision="n7.1-rootless" />  
+  <project path="packages/apps/masquerade" name="masquerade" remote="tipsy" revision="n7.1-rootless" />
 
   <!-- OmniJaws -->
   <project path="packages/services/OmniJaws" name="packages_services_OmniJaws" remote="tipsy" />

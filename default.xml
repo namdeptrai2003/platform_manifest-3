@@ -68,6 +68,7 @@
   <project path="packages/apps/SlimWallpapers" name="packages_apps_SlimWallpapers" remote="tipsy" />
   <project path="packages/apps/Snap" name="packages_apps_Snap" remote="tipsy" />
   <project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" remote="tipsy" />
+  <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="tipsy" />
   <project path="system/bt" name="system_bt" remote="tipsy" />
   <project path="system/core" name="android_system_core" remote="tipsy" />
   <project path="system/media" name="system_media" remote="tipsy" />
@@ -144,7 +145,6 @@
   <project path="packages/apps/UnifiedEmail" name="packages_apps_UnifiedEmail" remote="slim" />
   <project path="packages/providers/ContactsProvider" name="packages_providers_ContactsProvider" remote="slim" />
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="slim" />
-  <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="slim" />
   <project path="packages/providers/TelephonyProvider" name="packages_providers_TelephonyProvider" remote="slim" />
   <project path="packages/services/Mms" name="packages_services_Mms" remote="slim" />
   <project path="prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" name="android_prebuilts_gcc_darwin-x86_aarch64_aarch64-linux-android-4.9" remote="slim" />

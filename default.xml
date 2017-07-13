@@ -86,10 +86,6 @@
   <project path="external/google" name="external_google" remote="tesla" />
   <project path="packages/apps/LockClock" name="packages_apps_LockClock" remote="tipsy" />
 
-  <!-- Kernel Adiutor  -->
-  <project path="packages/apps/KernelAdiutor" name="KernelAdiutor" remote="tesla" />
-  <project path="packages/apps/FloatingActionButton" name="FloatingActionButton" remote="tesla" />
-
   <!-- OMS needs  -->
   <project path="packages/apps/masquerade" name="masquerade" remote="tipsy" revision="n7.1-rootless" />
 

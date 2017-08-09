@@ -3,7 +3,7 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com"
-           revision="refs/tags/android-7.1.2_r23" />
+           revision="refs/tags/android-7.1.2_r29" />
 
   <remote  name="github"
            fetch="https://github.com/"
@@ -634,5 +634,5 @@
 
   <!-- Toolchains -->
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" name="GZR-ValidusOS/arm-eabi-4.9" remote="github" revision="master" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-5.x" name="arm-eabi-5.x" remote="tipsylab" revision="master" />
+  <!--project path="prebuilts/gcc/linux-x86/arm/arm-eabi-5.x" name="arm-eabi-5.x" remote="tipsylab" revision="master" /-->
 </manifest>

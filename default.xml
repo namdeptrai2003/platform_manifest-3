@@ -518,6 +518,7 @@
   <project path="hardware/intel/sensors" name="platform/hardware/intel/sensors" groups="intel_sensors" remote="aosp" />
   <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense" remote="aosp" />
   <project path="hardware/marvell/bt" name="platform/hardware/marvell/bt" groups="marvell_bt" remote="aosp" />
+  <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="cm-14.1" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" groups="omap3" remote="aosp" />
   <project path="hardware/ti/omap4-aah" name="platform/hardware/ti/omap4-aah" groups="omap4-aah" remote="aosp" />
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" groups="omap4" remote="aosp" />

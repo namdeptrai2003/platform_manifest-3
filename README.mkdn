@@ -12,16 +12,13 @@ To get started with Tipsy, you'll need to get familiar with
 To initialize your local repository using the TipsyOs trees, use this command:
 
 
-	repo init -u git://github.com/TipsyOs/platform_manifest.git -b n7.1
-
-
+	repo init -u git://github.com/namdeptrai2003/platform_manifest-3.git -b n7.1
+	
 
 Then sync up with this command:
 
-	repo sync -j4
+        repo sync -c -f -j16 --force-sync --no-clone-bundle --no-tags --force-broken
 	
-	(once your local manifest is added for devices, or once u have brunched an official device; u may need to force the sync a bit by using $ repo sync --force-sync command)
-
 
 Setting up your build environment for Ubuntu/Mint
 =================================================

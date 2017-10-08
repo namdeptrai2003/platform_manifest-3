@@ -41,7 +41,7 @@
  <project path="vendor/tipsy" name="namdeptrai2003/vendor_tipsy" remote="github" revision="n7.1" />
  <project path="jack_scripts" name="namdeptrai2003/jack_scripts" remote="github" revision="master" />
  <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="tipsy" />
- <project path="packages/services/Telephony" name="namdeptrai2003/packages_services_Telephony" remote="github" revision="n7.1" />
+ <project path="packages/services/Telephony" name="TipsyOs/packages_services_Telephony" remote="github" revision="n7.1" />
  
   <!-- Tipsy stuff -->
   <project path="build" name="tipsy_build" remote="tipsy" >
